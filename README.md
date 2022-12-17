@@ -1,1 +1,1 @@
-# unit-commitment
+# Unit Commitment
